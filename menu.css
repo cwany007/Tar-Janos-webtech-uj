@@ -1,0 +1,38 @@
+body {
+    background-color: #F79750;
+}
+
+a {
+	cursor: pointer;
+} 
+
+#menu {
+   position: relative;
+}
+
+#menu li {
+   float: left;
+   list-style-type: none;
+   padding-right: 200px;
+   width: 100px;
+   background-color: #DCBD53;
+}
+
+#menu li ul {
+   background-color: #DCBD53;
+   padding:0;
+}
+
+#menu li ul li {
+
+	background-color: #DCBD53;
+   margin-left: auto;
+   margin-right: auto;
+   float: none;
+   list-style-type: none;
+   width: 80px;
+   position:absolute;
+}
+#tablahatter {
+	background-color:#FA5934;
+}
